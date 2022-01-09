@@ -7,7 +7,7 @@ At FINCRUX, we designed of an interactive banking dashboard which has different 
 - Spending overview gives you a graphical insight and helps optimize your actions- take loans, invest, or save.
 - Stock recommendation and one stop passbook information.
 
-![Preview](Screenshot (285).png "Title")
+![alt text](https://github.com/dev-il-dev/REIMAGINE_DASHBOARD/blob/main/Screenshot%20(285).png)
 1. Open the page.
 2. Click Login.
 3. Explore the dashboard.
